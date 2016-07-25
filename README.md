@@ -88,8 +88,7 @@
 + 地图学:arcgis制图
 + 计算机技能:linux/shell
 + 编程技能:java（熟练）[java数据结构与算法](https://github.com/bigdataXiang/DataStruct)/idea/maven/git/github
-          python
-          R语言(正在学习中)
++ python R语言(正在学习中)
 + 数据库:mongodb/mysql
 + 常规分析:sql
 + 大数据分析:hadoop hive/spark(学习中)
