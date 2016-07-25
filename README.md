@@ -1,8 +1,5 @@
 # 周湘
 
-## 联系方式
-
-+ 手机：18607109676
 + 邮箱：723395286@qq.com
 + wechat:brownbearXiang
 
