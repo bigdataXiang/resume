@@ -76,7 +76,7 @@
 
 ## 理论知识树
 以下均为我熟悉的知识范围
-
++ 数据分析：
 + 机器学习:RNN分类
 + 数据建模:回归模型
 + 地图学:地球物理/地图学/
@@ -88,7 +88,6 @@
 + 地图学:arcgis制图
 + 计算机技能:linux/shell
 + 编程技能:java（熟练）[java数据结构与算法](https://github.com/bigdataXiang/DataStruct)/idea/maven/git/github
-
 + python R语言(正在学习中)
 + 数据库:mongodb/mysql
 + 常规分析:sql
